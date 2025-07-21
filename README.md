@@ -1,1 +1,1 @@
-[Logbook](./journal/journal.md)
+[Journal](./journal/journal.md)
