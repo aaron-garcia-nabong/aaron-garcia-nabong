@@ -1,6 +1,7 @@
 # August 2025
 <ins> 3 August 2025 </ins> <br>
 + Rest.
++ Played some guitar.
 
 <ins> 2 August 2025 </ins> <br>
 + 5km tempo run.
