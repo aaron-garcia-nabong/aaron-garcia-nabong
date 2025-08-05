@@ -8,6 +8,5 @@
 <ins> 3 August 2025 </ins> <br>
 
 <ins> 2 August 2025 </ins> <br>
-+ 5km tempo run.
 
 <ins> 1 August 2025 </ins> <br>
