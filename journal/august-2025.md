@@ -1,5 +1,12 @@
 # August 2025
 <ins> 6 August 2025 </ins> <br>
++ Working through the exercises for "Chapter 3: Analytic Geometry", *Mathematics for Machine Learning* (Cambridge University Press, 2020).
+  + 3.1
+  + 3.2
+  + 3.3
+  + 3.4
+
+<ins> 6 August 2025 </ins> <br>
 + Working through "Chapter 3: Analytic Geometry", *Mathematics for Machine Learning* (Cambridge University Press, 2020).
   + 3.8 Orthogonal Projections.
   + 3.9 Rotations.
