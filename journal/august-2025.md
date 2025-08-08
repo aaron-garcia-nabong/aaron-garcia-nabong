@@ -1,5 +1,8 @@
 # August 2025
 <ins> 6 August 2025 </ins> <br>
++ 5km run.
+
+<ins> 6 August 2025 </ins> <br>
 + 4 sets dips, 4 sets pull ups.
 + 5km run.
 + Working through the exercises for "Chapter 3: Analytic Geometry", *Mathematics for Machine Learning* (Cambridge University Press, 2020).
