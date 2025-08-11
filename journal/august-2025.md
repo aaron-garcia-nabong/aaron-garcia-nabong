@@ -1,4 +1,8 @@
 # August 2025
+<ins> 11 August 2025 </ins> <br>
++ Working through the exercises for "Chapter 3: Analytic Geometry", *Mathematics for Machine Learning* (Cambridge University Press, 2020).
+  + 3.10
+ 
 <ins> 10 August 2025 </ins> <br>
 + 10km run.
 + Working through the exercises for "Chapter 3: Analytic Geometry", *Mathematics for Machine Learning* (Cambridge University Press, 2020).
