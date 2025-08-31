@@ -1,4 +1,4 @@
-Undergraduate physics student at Imperial College London.
+Undergraduate physics student at Imperial College London. <br>
 [Journal](journal/journal.md)
 <!--
 **aaron-garcia-nabong/aaron-garcia-nabong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
