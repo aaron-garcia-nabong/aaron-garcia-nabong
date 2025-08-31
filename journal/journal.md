@@ -1,2 +1,2 @@
 # Journal
-[September 2025](09-25.md)
+[September 2025](09-2025.md)
