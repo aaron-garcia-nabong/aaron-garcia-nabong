@@ -1,5 +1,6 @@
 [Journal](journal/journal.md)
 
+Hi! My name is Aaron Garcia and I am currently an undergraduate physics student at Imperial College London.
 <!--
 **aaron-garcia-nabong/aaron-garcia-nabong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
