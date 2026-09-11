@@ -5,7 +5,6 @@
 - 5km run
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - 2\. Using the Python Interpreter
-    - 3\. An Informal Introduction to Python
 - Harari, Y.N. (2024) *Nexus: A Brief History of Information Networks from the Stone Age to AI*
 
 **10 September 2026**
