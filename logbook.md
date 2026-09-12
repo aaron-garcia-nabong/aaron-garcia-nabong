@@ -1,6 +1,6 @@
 # Logbook
 **12 September 2026**
-- Parkrun.
+- Parkrun
 
 **11 September 2026**
 - 10km run
