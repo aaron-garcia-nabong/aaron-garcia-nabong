@@ -3,6 +3,7 @@
 - 10km run
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - 3\. An Informal Introduction to Python
+    - 4\. More Control Flow Tools
 
 **12 September 2026**
 - Parkrun
