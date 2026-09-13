@@ -2,7 +2,7 @@
 **13 September 2026**
 - 10km run
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-    - 3\. An Informal Introduction to Python. 
+    - 3\. An Informal Introduction to Python
 
 **12 September 2026**
 - Parkrun
