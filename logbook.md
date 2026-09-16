@@ -1,4 +1,9 @@
 # Logbook
+**16 September 2026**
+- 10km run
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+    - 4\. More Control Flow Tools
+
 **15 September 2026**
 - 10km run
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
