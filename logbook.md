@@ -1,4 +1,9 @@
 # Logbook
+**17 September 2026**
+- 10km run.
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+    - 5\. Data Structures
+
 **16 September 2026**
 - 10km run
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
