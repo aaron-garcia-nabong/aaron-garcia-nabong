@@ -1,11 +1,15 @@
 # Logbook
+**19 September 2026**
+- Parkrun
+- Murakami, H. (2007). *What I Talk About When I Talk About Running*
+
 **18 September 2026**
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - 6\. Modules
 - Murakami, H. (2007). *What I Talk About When I Talk About Running*
  
 **17 September 2026**
-- 10km run.
+- 10km run
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - 5\. Data Structures
 
