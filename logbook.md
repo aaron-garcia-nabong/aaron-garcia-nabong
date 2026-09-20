@@ -1,4 +1,7 @@
 # Logbook
+**20 September 2026**
+- Shoreditch Half Marathon
+
 **19 September 2026**
 - Parkrun
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
