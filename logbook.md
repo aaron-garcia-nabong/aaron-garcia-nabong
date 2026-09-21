@@ -2,6 +2,7 @@
 **21 September 2026**
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
     - 7\. Input and Output
+- Murakami, H. (2007). *What I Talk About When I Talk About Running*
 
 **20 September 2026**
 - Shoreditch Half Marathon
