@@ -1,4 +1,7 @@
 # Logbook
+**24 September 2026**
+- 15km run
+
 **23 September 2026**
 - Murakami, H. (2007). *What I Talk About When I Talk About Running*
 
