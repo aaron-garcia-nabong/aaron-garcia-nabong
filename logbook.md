@@ -1,6 +1,8 @@
 # Logbook
 **25 September 2026**
 - 15km run
+- [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+    - 7\. Input and Output
 
 **24 September 2026**
 - 15km run
