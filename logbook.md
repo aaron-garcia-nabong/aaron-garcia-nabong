@@ -1,4 +1,7 @@
 # Logbook
+**28 September 2026**
+- 15km run
+
 **27 September 2026**
 - 17km run
 
