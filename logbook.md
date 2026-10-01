@@ -1,6 +1,6 @@
 # Logbook
 **1 October 2026**
-- Full body strength training
+- Full body workout
 
 **30 September 2026**
 - 15km run
