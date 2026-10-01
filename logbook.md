@@ -2,7 +2,7 @@
 **1 October 2026**
 
 **30 September 2026**
-- 5km run
+- 15km run
 
 **29 September 2026**
 - 15km run
