@@ -1,6 +1,17 @@
 # Logbook
+**2 October 2026**
+- Quantum Physics
+- Differential Equations
+- Year 2 Lab Introductory Talk 2 
+
 **1 October 2026**
 - Full body workout
+- Year 2 Introductory Talk
+- Year 2 Lab Introductory Talk
+- Quantum Physics
+- Differential Equations
+- Fartlek run
+- 10km run
 
 **30 September 2026**
 - 15km run
