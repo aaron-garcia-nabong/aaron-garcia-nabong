@@ -1,18 +1,20 @@
 # Logbook
 **3 October 2026**
 - Muay Thai training
+- Quantum Physics revision
+- Differential Equations revision
 
 **2 October 2026**
-- Quantum Physics
-- Differential Equations
+- Quantum Physics lecture
+- Differential Equations lecture
 - Year 2 Lab Introductory Talk 2 
 
 **1 October 2026**
 - Strength training
 - Year 2 Introductory Talk
 - Year 2 Lab Introductory Talk
-- Quantum Physics
-- Differential Equations
+- Quantum Physics lecture
+- Differential Equations lecture
 - 30 mins fartlek run
 - 10km run
 
