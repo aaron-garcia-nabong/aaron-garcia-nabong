@@ -3,6 +3,7 @@
 - 5km run
 - Quantum Physics revision
 - Differential Equations revision
+- Quantum Physics problem sheet
 
 **3 October 2026**
 - Muay Thai training
