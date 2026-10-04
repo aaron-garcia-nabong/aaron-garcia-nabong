@@ -1,4 +1,9 @@
 # Logbook
+**4 October 2026**
+- 5km run
+- Quantum Physics revision
+- Differential Equations revision
+
 **3 October 2026**
 - Muay Thai training
 - Quantum Physics revision
