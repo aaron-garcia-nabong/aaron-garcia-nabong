@@ -2,7 +2,7 @@
 **5 October 2026**
 - Sun, Stars & Planets (lecture)
 - Quantum Physics (lecture)
-- Structure of Matter (lecture)
+- Structure of Matter (lecture, revision)
 - Mind, Self and Social World: Philosophy and the Human Sciences (I-Explore module)
 
 **4 October 2026**
