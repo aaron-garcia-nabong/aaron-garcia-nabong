@@ -1,32 +1,31 @@
 # Logbook
 **5 October 2026**
-- Sun, Stars & Planets lecture
-- Quantum Physics lecture
-- Structure of Matter lecture
-- Mind, Self and Social World: Philosophy and the Human Sciences I-Explore module
+- Sun, Stars & Planets (lecture)
+- Quantum Physics (lecture)
+- Structure of Matter (lecture)
+- Mind, Self and Social World: Philosophy and the Human Sciences (I-Explore module)
 
 **4 October 2026**
 - 5km run
-- Quantum Physics revision
-- Differential Equations revision
-- Quantum Physics problem sheet
+- Quantum Physics (revision, problem sheet)
+- Differential Equations (revision)
 
 **3 October 2026**
 - Muay Thai training
-- Quantum Physics revision
-- Differential Equations revision
+- Quantum Physics (revision)
+- Differential Equations (revision)
 
 **2 October 2026**
-- Quantum Physics lecture
-- Differential Equations lecture
+- Quantum Physics (lecture)
+- Differential Equations (lecture)
 - Year 2 Lab Introductory Talk 2 
 
 **1 October 2026**
 - Strength training
 - Year 2 Introductory Talk
 - Year 2 Lab Introductory Talk
-- Quantum Physics lecture
-- Differential Equations lecture
+- Quantum Physics (lecture)
+- Differential Equations (lecture)
 - 30 mins fartlek run
 - 10km run
 
