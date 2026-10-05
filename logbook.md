@@ -1,6 +1,6 @@
 # Logbook
 **5 October 2026**
-- Sun, Stars & Planets (lecture)
+- Sun, Stars & Planets (lecture, revision)
 - Quantum Physics (lecture)
 - Structure of Matter (lecture, revision)
 - Mind, Self and Social World: Philosophy and the Human Sciences (I-Explore module)
