@@ -1,4 +1,10 @@
 # Logbook
+**5 October 2026**
+- Sun, Stars & Planets lecture
+- Quantum Physics lecture
+- Structure of Matter lecture
+- 
+
 **4 October 2026**
 - 5km run
 - Quantum Physics revision
@@ -11,7 +17,8 @@
 - Differential Equations revision
 
 **2 October 2026**
-- Quantum Physics lecture
+- Quantum Physics
+    - Lecture
 - Differential Equations lecture
 - Year 2 Lab Introductory Talk 2 
 
