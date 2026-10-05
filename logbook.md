@@ -3,7 +3,7 @@
 - Sun, Stars & Planets lecture
 - Quantum Physics lecture
 - Structure of Matter lecture
-- 
+- Mind, Self and Social World: Philosophy and the Human Sciences I-Explore module
 
 **4 October 2026**
 - 5km run
@@ -17,8 +17,7 @@
 - Differential Equations revision
 
 **2 October 2026**
-- Quantum Physics
-    - Lecture
+- Quantum Physics lecture
 - Differential Equations lecture
 - Year 2 Lab Introductory Talk 2 
 
