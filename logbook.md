@@ -4,6 +4,7 @@
 - Thermal Physics and Structure of Matter (seminar)
 - Differential Equations (lecture)
 - Quantum Physics (lecture, revision)
+- Quantum Technology Society (quantum computing workshop)
 
 **5 October 2026**
 - Sun, Stars & Planets (lecture, revision)
