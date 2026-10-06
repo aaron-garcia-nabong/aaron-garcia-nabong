@@ -4,7 +4,7 @@
 - Thermal Physics and Structure of Matter (seminar)
 - Differential Equations (lecture)
 - Quantum Physics (lecture, revision)
-- Quantum Technology Society (quantum computing workshop taster session)
+- Quantum Technology Society (taster session)
 
 **5 October 2026**
 - Sun, Stars & Planets (lecture, revision)
@@ -18,7 +18,7 @@
 - Differential Equations (revision)
 
 **3 October 2026**
-- Muay Thai training (taster session)
+- Muay Thai Society (taster session)
 - Quantum Physics (revision)
 - Differential Equations (revision)
 
