@@ -4,7 +4,7 @@
 - Thermal Physics and Structure of Matter (seminar)
 - Year 2 Radioactivity Lab Discussion Session
 - Differential Equations (lecture)
-- Quantum Physics (lecture)
+- Quantum Physics (lecture, revision)
 
 **5 October 2026**
 - Sun, Stars & Planets (lecture, revision)
