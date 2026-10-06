@@ -1,4 +1,6 @@
 # Logbook
+**6 October 2026**
+
 **5 October 2026**
 - Sun, Stars & Planets (lecture, revision)
 - Quantum Physics (lecture)
