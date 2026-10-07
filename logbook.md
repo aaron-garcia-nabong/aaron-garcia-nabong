@@ -1,4 +1,6 @@
 # Logbook
+**7 October 2026**
+
 **6 October 2026**
 - Sun, Stars & Planets (revision)
 - Thermal Physics and Structure of Matter (seminar)
