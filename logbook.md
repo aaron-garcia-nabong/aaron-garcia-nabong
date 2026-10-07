@@ -1,4 +1,6 @@
 # Logbook
+**8 October 2026**
+
 **7 October 2026**
 - Quantum Physics (revision)
 - Differential Equations (revision)
