@@ -1,6 +1,7 @@
 # Logbook
 **7 October 2026**
 - Quantum Physics (revision)
+- Coros running fitness test
 
 **6 October 2026**
 - Sun, Stars & Planets (revision)
