@@ -2,6 +2,8 @@
 **9 October 2026**
 - Structure of Matter (revision)
 - Sun, Stars & Planets (revision)
+- Quantum Physics (lecture, office hour)
+- Structure of Matter (lecture)
 - Strength training
 
 **8 October 2026**
