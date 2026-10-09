@@ -3,7 +3,8 @@
 - Structure of Matter (revision)
 - Sun, Stars & Planets (revision)
 - Quantum Physics (lecture, office hour)
-- Structure of Matter (lecture)
+- Structure of Matter (lecture, revision)
+- Imperial College Electric Propulsion (meeting).
 - Strength training
 
 **8 October 2026**
