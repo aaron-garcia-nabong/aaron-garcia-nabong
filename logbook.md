@@ -1,8 +1,14 @@
 # Logbook
+**9 October 2026**
+- Structure of Matter (revision)
+- Sun, Stars & Planets (revision)
+- Strength training
+
 **8 October 2026**
 - Structure of Matter (lecture)
 - Sun, Stars & Planets (lecture)
 - Differential Equations (problem sheet)
+- Strength training
 
 **7 October 2026**
 - Quantum Physics (revision)
