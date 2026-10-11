@@ -1,4 +1,7 @@
 # Logbook
+**11 October 2026**
+- ASICS LDNX 10k
+
 **10 October 2026**
 - Structure of Matter (revision)
 - Sun, Stars & Planets (revision)
@@ -97,7 +100,7 @@
 - Murakami, H. (2007). *What I Talk About When I Talk About Running*
 
 **20 September 2026**
-- Shoreditch Half Marathon
+- Saucony Run Shoreditch Half
 
 **19 September 2026**
 - Parkrun
