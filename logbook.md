@@ -1,6 +1,7 @@
 # Logbook
 **11 October 2026**
 - ASICS LDNX 10k
+- Quantum Physics (problem sheet)
 
 **10 October 2026**
 - Structure of Matter (revision)
