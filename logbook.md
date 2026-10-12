@@ -1,6 +1,7 @@
 # Logbook
 **12 October 2026**
 - Structure of Matter (revision, problem sheet)
+- Sun, Stars & Planets (lecture, revision)
 
 **11 October 2026**
 - ASICS LDNX 10k
