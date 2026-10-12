@@ -1,6 +1,6 @@
 # Logbook
 **12 October 2026**
-- Structure of Matter (problem sheet)
+- Structure of Matter (revision, problem sheet)
 
 **11 October 2026**
 - ASICS LDNX 10k
