@@ -1,7 +1,9 @@
 # Logbook
 **12 October 2026**
-- Structure of Matter (revision, problem sheet)
+- Structure of Matter (lecture, revision, problem sheet)
 - Sun, Stars & Planets (lecture, revision)
+- Quantum Physics (lecture)
+- Mind, Self and Social World: Philosophy and the Human Sciences (I-Explore module)
 
 **11 October 2026**
 - ASICS LDNX 10k
