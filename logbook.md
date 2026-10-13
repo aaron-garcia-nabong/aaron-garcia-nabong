@@ -1,28 +1,30 @@
 # Logbook
 **13 October 2026**
 - Sun, Stars & Planets (revision)
-- Quantum Physics (revision)
+- Introduction to Quantum Physics (lecture, revision, seminar)
+- Differential Equations (lecture)
+- Academic Tutorial
 
 **12 October 2026**
 - Structure of Matter (lecture, revision, problem sheet)
 - Sun, Stars & Planets (lecture, revision)
-- Quantum Physics (lecture)
+- Introduction to Quantum Physics (lecture)
 - Mind, Self and Social World: Philosophy and the Human Sciences (I-Explore module)
 
 **11 October 2026**
 - ASICS LDNX 10k
-- Quantum Physics (problem sheet)
+- Introduction to Quantum Physics (problem sheet)
 - Structure of Matter (problem sheet)
 
 **10 October 2026**
 - Structure of Matter (revision)
 - Sun, Stars & Planets (revision)
-- Quantum Physics (revision)
+- Introduction to Quantum Physics (revision)
 
 **9 October 2026**
 - Structure of Matter (revision)
 - Sun, Stars & Planets (revision)
-- Quantum Physics (lecture, office hour)
+- Introduction to Quantum Physics (lecture, office hour)
 - Structure of Matter (lecture, revision)
 - Imperial College Electric Propulsion (meeting)
 - Strength training
@@ -34,7 +36,7 @@
 - Strength training
 
 **7 October 2026**
-- Quantum Physics (revision)
+- Introduction to Quantum Physics (revision)
 - Differential Equations (revision)
 - Coros running fitness test
 
@@ -42,27 +44,27 @@
 - Sun, Stars & Planets (revision)
 - Thermal Physics and Structure of Matter (seminar)
 - Differential Equations (lecture)
-- Quantum Physics (lecture, revision)
+- Introduction to Quantum Physics (lecture, revision)
 - Quantum Technology Society (taster session)
 
 **5 October 2026**
 - Sun, Stars & Planets (lecture, revision)
-- Quantum Physics (lecture)
+- Introduction to Quantum Physics (lecture)
 - Structure of Matter (lecture, revision)
 - Mind, Self and Social World: Philosophy and the Human Sciences (I-Explore module)
 
 **4 October 2026**
 - 5km run
-- Quantum Physics (revision, problem sheet)
+- Introduction to Quantum Physics (revision, problem sheet)
 - Differential Equations (revision)
 
 **3 October 2026**
 - Muay Thai Society (taster session)
-- Quantum Physics (revision)
+- Introduction to Quantum Physics (revision)
 - Differential Equations (revision)
 
 **2 October 2026**
-- Quantum Physics (lecture)
+- Introduction to Quantum Physics (lecture)
 - Differential Equations (lecture)
 - Year 2 Lab Introductory Talk 2 
 
@@ -70,7 +72,7 @@
 - Strength training
 - Year 2 Introductory Talk
 - Year 2 Lab Introductory Talk
-- Quantum Physics (lecture)
+- Introduction to Quantum Physics (lecture)
 - Differential Equations (lecture)
 - 30 mins fartlek run
 - 10km run
