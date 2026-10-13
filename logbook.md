@@ -1,6 +1,7 @@
 # Logbook
 **13 October 2026**
 - Sun, Stars & Planets (revision)
+- Quantum Physics (revision)
 
 **12 October 2026**
 - Structure of Matter (lecture, revision, problem sheet)
