@@ -1,6 +1,8 @@
 # Logbook
 **14 October 2026**
-- Quantum Physics (revision)
+- Introduction to Quantum Physics (revision)
+- Differential Equations (revision)
+- Ultimate frisbee (taster session)
 
 **13 October 2026**
 - Sun, Stars & Planets (revision)
@@ -62,7 +64,7 @@
 - Differential Equations (revision)
 
 **3 October 2026**
-- Muay Thai Society (taster session)
+- Muay thai (taster session)
 - Introduction to Quantum Physics (revision)
 - Differential Equations (revision)
 
