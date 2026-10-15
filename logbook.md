@@ -1,4 +1,8 @@
 # Logbook
+**15 October 2026**
+- Structure of Matter (lecture)
+- Imperial College Electric Propulsion (work)
+
 **14 October 2026**
 - Introduction to Quantum Physics (revision)
 - Differential Equations (revision)
