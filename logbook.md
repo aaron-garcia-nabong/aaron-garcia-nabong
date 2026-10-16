@@ -1,5 +1,7 @@
 # Logbook
 **16 October 2026**
+- Sun, Stars & Planets (revision)
+- Year 2 Careers Talk - Interviews and Networking
 
 **15 October 2026**
 - Structure of Matter (lecture)
